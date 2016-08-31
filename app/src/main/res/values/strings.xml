@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HideWithCoordinatorLayout</string>
+    <string name="fab_description">FAB button description</string>
+    <string name="part_one">Part One</string>
+    <string name="part_two">Part Two</string>
+    <string name="part_three1">Part Three RecyclerView </string>
+    <string name="part_three2">Part Three ScrollView </string>
+    <string name="tab_2">TAB 2</string>
+    <string name="tab_1">TAB 1</string>
+</resources>

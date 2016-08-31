@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+  <android.support.v4.widget.NestedScrollView
+      android:layout_width="match_parent"
+      android:layout_height="match_parent">
+
+    <!-- Your scrolling content -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:autoLink="all"
+        android:text="PK Patil 9977368049 you can find out more demos from https://github.com/pintukumarpatil Our custom ActionBar layout uses a centered title element by default (or logo depending on your preferenceOur custom ActionBar layout uses a centered title element by default (or logo depending on your preferenceOur custom ActionBar layout uses a centered title element by default (or logo depending on your preference Our custom ActionBar layout uses a centered title element by default (or logo depending on your preference of text or image as a title). This deviates from the Android stardard a little, which is to left align the title text and position it just to the right of the home button. Many apps still opt for the centered title design though, probably because it has been made popular on iOS.Our custom ActionBar layout uses a centered title element by default (or logo depending on your preference of text or image as a title). This deviates from the Android stardard a little, which is to left align the title text and position it just to the right of the home button. Many apps still opt for the centered title design though, probably because it has been made popular on iOS.Our custom ActionBar layout uses a centered title element by default (or logo depending on your preference of text or image as a title). This deviates from the Android stardard a little, which is to left align the title text and position it just to the right of the home button. Many apps still opt for the centered title design though, probably because it has been made popular on iOS.Our custom ActionBar layout uses a centered title element by default (or logo depending on your preference of text or image as a title). This deviates from the Android stardard a little, which is to left align the title text and position it just to the right of the home button. Many apps still opt for the centered title design though, probably because it has been made popular on iOS.Our custom ActionBar layout uses a centered title element by default (or logo depending on your preference of text or image as a title). This deviates from the Android stardard a little, which is to left align the title text and position it just to the right of the home button. Many apps still opt for the centered title design though, probably because it has been made popular on iOS.Our custom ActionBar layout uses a centered title element by default (or logo depending on your preference of text or image as a title). This deviates from the Android stardard a little, which is to left align the title text and position it just to the right of the home button. Many apps still opt for the centered title design though, probably because it has been made popular on iOS.Our custom ActionBar layout uses a centered title element by default (or logo depending on your preference of text or image as a title). This deviates from the Android stardard a little, which is to left align the title text and position it just to the right of the home button. Many apps still opt for the centered title design though, probably because it has been made popular on iOS."
+        />
+  </android.support.v4.widget.NestedScrollView>
+
+  </LinearLayout>
